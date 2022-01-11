@@ -2,6 +2,7 @@
 #### Sobre mim 🉑
 - Tenho 20 anos
 - Estou cursando Engenharia de Controle e Automação no IFSP - Salto.
+- Faco estagio atualmente como desenvolvedor no Itau
 - Meus hobbies envolvem Tocar instrumentos 🎸 basquete 🏀 estudar 📖 e desenvolver meus projetos 🖥️
 - Tenho um canal no YouTube onde posto alguns cover de Guitarra de músicas de diversos estilos, link está em "Contatos"
 - Atualmente estou estudando as linguagens Kotlin, C++ e Dart(Flutter)
