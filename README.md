@@ -1,11 +1,11 @@
 ## Opaa, tudo bom? Meu nome é Pedro 🤙 
 #### Sobre mim 🉑
-- Tenho 20 anos
+- Tenho 22 anos
 - Estou cursando Engenharia de Controle e Automação no IFSP - Salto.
-- Faco estagio atualmente como desenvolvedor no Itau
+- Sou Analista de Engenharia TI Jr do Itaú Unibanco
 - Meus hobbies envolvem Tocar instrumentos 🎸 basquete 🏀 estudar 📖 e desenvolver meus projetos 🖥️
 - Tenho um canal no YouTube onde posto alguns cover de Guitarra de músicas de diversos estilos, link está em "Contatos"
-- Atualmente estou estudando as linguagens Kotlin, C++ e Dart(Flutter)
+- Atualmente estou estudando as linguagens Kotlin, C++, Dart(Flutter), Java e AWS
 - Busco através do Git ajudar pessoas que estão iniciando na área do desenvolvimento e buscam projetos para inspiração, assim como eu buscava quando comecei!!!
 
 ## Contatos
